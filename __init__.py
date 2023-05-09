@@ -1,1 +1,1 @@
-from UniXcoder import *
+from .UniXcoder import *
